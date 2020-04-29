@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F1D9C6A2458D5900028DD72 /* Clientes.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F1D9C692458D5900028DD72 /* Clientes.m */; };
 		4FA65A442458CB1800F99D11 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FA65A432458CB1800F99D11 /* AppDelegate.m */; };
 		4FA65A472458CB1800F99D11 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FA65A462458CB1800F99D11 /* SceneDelegate.m */; };
 		4FA65A4A2458CB1800F99D11 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FA65A492458CB1800F99D11 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F1D9C682458D5900028DD72 /* Clientes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Clientes.h; sourceTree = "<group>"; };
+		4F1D9C692458D5900028DD72 /* Clientes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Clientes.m; sourceTree = "<group>"; };
 		4FA65A3F2458CB1800F99D11 /* Clientes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clientes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FA65A422458CB1800F99D11 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4FA65A432458CB1800F99D11 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,6 +114,8 @@
 				4FA65A482458CB1800F99D11 /* ViewController.h */,
 				4FA65A492458CB1800F99D11 /* ViewController.m */,
 				4FA65A4B2458CB1800F99D11 /* Main.storyboard */,
+				4F1D9C682458D5900028DD72 /* Clientes.h */,
+				4F1D9C692458D5900028DD72 /* Clientes.m */,
 				4FA65A4E2458CB1A00F99D11 /* Assets.xcassets */,
 				4FA65A502458CB1A00F99D11 /* LaunchScreen.storyboard */,
 				4FA65A532458CB1A00F99D11 /* Info.plist */,
@@ -269,6 +274,7 @@
 			files = (
 				4FA65A4A2458CB1800F99D11 /* ViewController.m in Sources */,
 				4FA65A442458CB1800F99D11 /* AppDelegate.m in Sources */,
+				4F1D9C6A2458D5900028DD72 /* Clientes.m in Sources */,
 				4FA65A552458CB1A00F99D11 /* main.m in Sources */,
 				4FA65A472458CB1800F99D11 /* SceneDelegate.m in Sources */,
 			);
